@@ -10,7 +10,7 @@
 		<input type="submit" value="Aceptar">
 	</form>
 	</body>
-</html
+</html>
 
 <?php
    $cadena = $_POST['cadena']; 
